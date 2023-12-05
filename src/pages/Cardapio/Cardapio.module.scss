@@ -1,0 +1,14 @@
+@import "styles/variaveis";
+@import "styles/breakpoints";
+
+
+
+.cardapio {
+ 
+  @media (min-width: $desktop_xsm) and (max-width: $desktop_sm) {
+    padding: 50px $padding-horizontal-sm;
+  }
+  @media (min-width: $desktop_sm) and (max-width: $desktop_md) {
+    padding: 50px $padding-horizontal-md;
+  }
+}
