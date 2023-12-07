@@ -12,7 +12,7 @@ Esse aplicativo foi desenvolvido no curso <a href="https://cursos.alura.com.br/c
 
 ## 🔨 Funcionalidades do projeto
 
-Esse aplicativo é uma SPA de resta restaurante.
+Esse aplicativo é uma SPA de restaurante.
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
@@ -27,7 +27,7 @@ Lista das bibliotecas utilizadas no desenvolvimento do Mapa:
 
 ## 🛠️ Abrir e rodar o projeto
 
-Para abrir e rodar o projeto, execute npm i ou yarn para instalar as dependências e npm start ou yarn start para inicar o projeto.
+Dentro da pasta do projeto execute npm i ou yarn para instalar as dependências e npm start ou yarn start para iniciar o projeto.
 
 Depois, acesse <a href="http://localhost:3000/" target="_blank">http://localhost:3000/</a> no seu navegador. 
 
